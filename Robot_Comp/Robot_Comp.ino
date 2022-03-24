@@ -1,3 +1,8 @@
+/*
+ * Bud Patterson, March 24, 2022
+ * Robot Controller Script
+*/
+
 #include <gurk.h>
 
 
